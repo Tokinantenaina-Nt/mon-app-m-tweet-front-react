@@ -1,1 +1,1 @@
-Projet React pour consommer l'aPi de mon back-end
+Projet React pour consommer l'aPi du mon back-end firebase
